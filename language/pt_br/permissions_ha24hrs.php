@@ -19,5 +19,5 @@ if (empty($lang) || !is_array($lang))
 }
 
 $lang = array_merge($lang, array(
-	'ACL_U_ALLOW_HA24HRS_VIEW'	=> 'Permitir visualizar a extensão “24 hour activity stats” extension',
+	'ACL_U_ALLOW_HA24HRS_VIEW'	=> 'Permitir visualizar a extensão “24 hour activity stats”',
 ));
